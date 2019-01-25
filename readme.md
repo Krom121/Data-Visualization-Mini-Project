@@ -1,5 +1,7 @@
 # Data Visualisation Mini Project
 
+To view this project: https://krom121.github.io/Data-Visualization-Mini-Project/.
+
 This mini project was done to help learn how to create a simple data dashboard for a web broswer.
 
 The topic which was choosen was gender in academia.
